@@ -1,0 +1,21 @@
+{
+    "conf_dev":{
+        "driver":"mysql",
+        "dbhost":"localhost",
+        "dbname":"blogdb",
+        "dbuser":"root",
+        "dbpass":"linuxlinux",
+        "web":"/",
+        "root":"/"
+    },
+    "conf_pro":{
+        "driver":"mysql",
+        "dbhost":"gapa.cesnuria.com",
+        "dbname":"GaPa_prouf1",
+        "dbuser":"GaPa_prouf1",
+        "dbpass":"linuxlinux",
+        "web":"/m07/ToDo/",
+        "root":"/m07/ToDo/"
+
+    }
+}
